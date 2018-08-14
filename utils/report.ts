@@ -8,7 +8,7 @@ const reporterOptions = {
   launchReport: false,
   name: "My Project",
   brandTitle: "My App",
-  columnLayout: 1
+  columnLayout: 2
 };
 
 reporter.generate(reporterOptions);
